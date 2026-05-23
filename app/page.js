@@ -57,7 +57,7 @@ export default function RVSHLandingPage() {
               </div>
 
               <h1 className="text-5xl lg:text-7xl font-bold leading-[1.05] tracking-tight">
-                Stvck on the road?
+                Stuck on the road?
                 <span className="block text-zinc-400 mt-3">
                   RVSH gets help to you.
                 </span>
@@ -69,7 +69,7 @@ export default function RVSHLandingPage() {
 
               <div className="mt-10 flex flex-col sm:flex-row gap-4">
                 <a
-                  href="https://bit.ly/rvsh-help"
+                  href="https://wa.me/919999999999"
                   className="bg-white text-black px-8 py-4 rounded-2xl font-semibold hover:scale-105 transition-transform duration-300 shadow-2xl"
                 >
                   Get Help on WhatsApp
@@ -218,7 +218,7 @@ export default function RVSHLandingPage() {
             </p>
 
             <a
-              href="https://bit.ly/rvsh-help"
+              href="https://wa.me/919999999999"
               className="inline-flex items-center justify-center mt-10 bg-white text-black px-10 py-5 rounded-2xl font-semibold hover:scale-105 transition-transform duration-300"
             >
               Contact RVSH on WhatsApp
