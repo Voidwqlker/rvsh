@@ -57,7 +57,7 @@ export default function RVSHLandingPage() {
               </div>
 
               <h1 className="text-5xl lg:text-7xl font-bold leading-[1.05] tracking-tight">
-                stvck on the road?
+                Stvck on the road?
                 <span className="block text-zinc-400 mt-3">
                   RVSH gets help to you.
                 </span>
