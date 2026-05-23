@@ -69,7 +69,7 @@ export default function RVSHLandingPage() {
 
               <div className="mt-10 flex flex-col sm:flex-row gap-4">
                 <a
-                  href="https://wa.me/919999999999"
+                  href="https://wa.me/919011861819"
                   className="bg-white text-black px-8 py-4 rounded-2xl font-semibold hover:scale-105 transition-transform duration-300 shadow-2xl"
                 >
                   Get Help on WhatsApp
@@ -218,7 +218,7 @@ export default function RVSHLandingPage() {
             </p>
 
             <a
-              href="https://wa.me/919999999999"
+              href="https://wa.me/919011861819"
               className="inline-flex items-center justify-center mt-10 bg-white text-black px-10 py-5 rounded-2xl font-semibold hover:scale-105 transition-transform duration-300"
             >
               Contact RVSH on WhatsApp
