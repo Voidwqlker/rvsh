@@ -57,14 +57,14 @@ export default function RVSHLandingPage() {
               </div>
 
               <h1 className="text-5xl lg:text-7xl font-bold leading-[1.05] tracking-tight">
-                Stuck on the road?
+                stvck on the road?
                 <span className="block text-zinc-400 mt-3">
                   RVSH gets help to you.
                 </span>
               </h1>
 
               <p className="mt-8 text-lg text-zinc-400 max-w-xl leading-relaxed">
-                Fuel delivery, puncture support, battery help, and emergency roadside assistance from nearby verified helpers — so you are never stranded alone.
+                Fuel delivery, puncture support, battery help, and emergency roadside assistance from nearby verified helpers - so you are never stranded alone.
               </p>
 
               <div className="mt-10 flex flex-col sm:flex-row gap-4">
@@ -214,7 +214,7 @@ export default function RVSHLandingPage() {
             </h2>
 
             <p className="mt-8 text-lg text-zinc-400 max-w-2xl mx-auto leading-relaxed">
-              Whether you are stranded at night, stuck in another city, or dealing with a sudden breakdown — RVSH helps you connect with nearby trusted roadside assistance quickly.
+              Whether you are stranded at night, stvck in another city, or dealing with a sudden breakdown - RVSH helps you connect with nearby trusted roadside assistance quickly.
             </p>
 
             <a
